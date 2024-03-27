@@ -1,19 +1,19 @@
 [
   {
     "name": "Rain",
-    "file": "samples/Rain on Concrete during storm with thunder.wav",
+    "file": "samples/Rain_on_Concrete_during_storm_with_thunder.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "Train",
-    "file": "samples/251756 drewhulva cta-redline-pass.wav",
+    "file": "samples/251756_drewhulva_cta-redline-pass.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "White noise",
-    "file": "samples/Air conditioner hum 2 (Gravity Sound).wav",
+    "file": "samples/Air_conditioner_hum_2_(Gravity Sound).wav",
     "bpm": "120",
     "loop": "1m"
   }
