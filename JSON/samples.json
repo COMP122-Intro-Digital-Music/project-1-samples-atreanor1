@@ -1,19 +1,19 @@
 [
   {
-    "name": "Rain",
-    "file": "samples/Rain_on_Concrete_during_storm_with_thunder.wav",
+    "name": "Rain on leaves",
+    "file": "samples/Rain_on_leaves_(Gravity_Sound).wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
-    "name": "Train",
+    "name": "CTA Train",
     "file": "samples/251756_drewhulva_cta-redline-pass.wav",
     "bpm": "120",
     "loop": "1m"
   },
   {
-    "name": "White noise",
-    "file": "samples/Air_conditioner_hum_2_(Gravity Sound).wav",
+    "name": "Air Conditioner",
+    "file": "samples/Air_conditioner_hum_2_(Gravity_Sound).wav",
     "bpm": "120",
     "loop": "1m"
   }
